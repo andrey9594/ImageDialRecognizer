@@ -1,0 +1,1 @@
+C:\Учеба\Обработка изображений\Каскад Хаара\ImageDialRecognizer\DialDetector\DialDetectorForm\DialDetectorForm\bin\Debug\DialDetectorForm.exe.config
