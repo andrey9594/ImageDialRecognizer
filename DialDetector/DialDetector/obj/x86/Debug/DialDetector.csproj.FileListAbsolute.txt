@@ -1,0 +1,5 @@
+C:\Учеба\Обработка изображений\Каскад Хаара\Owl\Bubobubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.exe
+C:\Учеба\Обработка изображений\Каскад Хаара\Owl\Bubobubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.pdb
+C:\Учеба\Обработка изображений\Каскад Хаара\ImageDialRecognizer\DialDetector\OwlDetector\obj\x86\Debug\DialDetector.Form1.resources
+C:\Учеба\Обработка изображений\Каскад Хаара\ImageDialRecognizer\DialDetector\OwlDetector\obj\x86\Debug\DialDetector.Properties.Resources.resources
+C:\Учеба\Обработка изображений\Каскад Хаара\ImageDialRecognizer\DialDetector\OwlDetector\obj\x86\Debug\DialDetector.csproj.GenerateResource.Cache
